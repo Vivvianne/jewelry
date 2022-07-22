@@ -14,9 +14,9 @@ from pathlib import Path
 import os
 import django_heroku
 import dj_database_url
-import cloudinary
-import cloudinary.uploader
-import cloudinary.api
+# import cloudinary
+# import cloudinary.uploader
+# import cloudinary.api
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -112,11 +112,11 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
-cloudinary.config( 
-  cloud_name = "dfzeohua2", 
-  api_key = "533722492179126", 
-  api_secret = "gIZrXBaH9pio4x3ARLOHY52iAqQ" 
-)
+# cloudinary.config( 
+#   cloud_name = "dfzeohua2", 
+#   api_key = "533722492179126", 
+#   api_secret = "gIZrXBaH9pio4x3ARLOHY52iAqQ" 
+# )
 
 # Internationalization
 # https://docs.djangoproject.com/en/4.0/topics/i18n/
