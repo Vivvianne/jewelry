@@ -55,6 +55,7 @@ pip install -r requirements
 * Python3.8
 * Django 3.3.4
 * Heroku
+* Cloudinary
 
 ## Known Bugs/To do
 Add the Contact and blog templates
