@@ -1,4 +1,4 @@
-# jewelry
+# Jewelry
 Author: Vivvianne Kimani
 Date July 2022
 
