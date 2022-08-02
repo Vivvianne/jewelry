@@ -63,6 +63,7 @@ Fix cart icon on navbar.
 
 
 ## Licence
+[MIT](https://github.com/Vivvianne/jewelry/blob/master/LICENSE)
 
 
 
